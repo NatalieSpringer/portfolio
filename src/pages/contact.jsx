@@ -51,8 +51,9 @@ const Contact = () => {
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
 							</a>
+							&nbsp;{" "}
 							I'm committed to providing timely responses and aim to get back to you within 24 hours.
-							However, during particularly bustling times, it may take me a tad longer to reply, but please bear with me.
+							However, during particularly busy times, it may take me a tad longer to reply, but please bear with me.
 							I greatly appreciate your understanding and look forward to connecting with you!
 						</div>
 					</div>
